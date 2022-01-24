@@ -1,1 +1,0 @@
-console.log('Esta é a manage');

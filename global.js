@@ -8,7 +8,7 @@
  */
 
 // URL da API REST (back-end). Não esqueça da "/" no final. 
-const apiURL = 'http://localhost:3300/';
+const apiURL = 'http://10.136.61.4:3300/';
 
 /**
  * Super global que armazena as configurações gerais do aplicativo, obtidas do 
